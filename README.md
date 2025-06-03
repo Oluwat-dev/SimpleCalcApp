@@ -51,12 +51,12 @@ Open the app in your browser
 
 Just open index.html in your browser to start using the calculator.
 
-📦 Build Tools
+## 📦 Build Tools
 TypeScript compiler (tsc)
 
 No external libraries or frameworks required
 
-📌 Future Improvements
+## 📌 Future Improvements
 Add keyboard support
 
 Support for decimal input and percentage calculation
@@ -65,7 +65,7 @@ Theme toggle (light/dark mode)
 
 Unit testing with Jest
 
-🧑‍💻 Author
+## 🧑‍💻 Author
 Aluko Oluwatobi
 
 
