@@ -24,11 +24,16 @@ A lightweight, responsive calculator built with **TypeScript**, **HTML**, **CSS*
 
 ## 📁 Project Structure
 calculator-app/
-├── index.html
-├── styles.css
-├── script.js
-├── calculator.ts
-├── tsconfig.json
+├── public/ # Static assets
+├── src/
+│ ├── main.ts # App entry point
+│ ├── App.ts # Calculator logic
+│ └── style.css # Tailwind imports
+├── index.html # Root HTML
+├── tailwind.config.js # Tailwind setup
+├── postcss.config.js # PostCSS config
+├── tsconfig.json # TypeScript base config
+├── vite.config.ts # Vite configuration
 └── README.md
 
 
@@ -40,13 +45,17 @@ calculator-app/
 git clone https://github.com/Oluwat-dev/SimpleCalcApp.git
 cd calculator-app
 ```
+2. **Install dependencies**
+   ```bash
+npm install
+```
+3. **Run the development server**
+ ```bash
+npm run dev
+```
 
-Compile TypeScript (if needed)
 
 
-Copy
-Edit
-tsc calculator.ts
 Open the app in your browser
 
 Just open index.html in your browser to start using the calculator.
@@ -61,7 +70,9 @@ Add keyboard support
 
 Support for decimal input and percentage calculation
 
-Theme toggle (light/dark mode)
+Add support for floating-point numbers
+
+Include advanced operations (square root, exponentiation)
 
 Unit testing with Jest
 
