@@ -23,4 +23,49 @@ A lightweight, responsive calculator built with **TypeScript**, **HTML**, **CSS*
 
 
 ## 📁 Project Structure
+calculator-app/
+├── index.html
+├── styles.css
+├── script.js
+├── calculator.ts
+├── tsconfig.json
+└── README.md
 
+
+## 💻 Getting Started
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/Oluwat-dev/SimpleCalcApp.git
+cd calculator-app
+
+Compile TypeScript (if needed)
+
+
+Copy
+Edit
+tsc calculator.ts
+Open the app in your browser
+
+Just open index.html in your browser to start using the calculator.
+
+📦 Build Tools
+TypeScript compiler (tsc)
+
+No external libraries or frameworks required
+
+📌 Future Improvements
+Add keyboard support
+
+Support for decimal input and percentage calculation
+
+Theme toggle (light/dark mode)
+
+Unit testing with Jest
+
+🧑‍💻 Author
+Aluko Oluwatobi
+
+
+Feel free to fork, clone, or contribute to the project!
