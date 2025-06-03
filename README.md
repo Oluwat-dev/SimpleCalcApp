@@ -40,13 +40,12 @@ calculator-app/
 ## 💻 Getting Started
 
 1. **Clone the repository**
-
 ```bash
 git clone https://github.com/Oluwat-dev/SimpleCalcApp.git
 cd calculator-app
 ```
 2. **Install dependencies**
-   ```bash
+ ```bash
 npm install
 ```
 3. **Run the development server**
