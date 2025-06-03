@@ -19,8 +19,8 @@ A lightweight, responsive calculator built with **TypeScript**, **HTML**, **CSS*
 
 ## 📷 Screenshot
 
-![Calculator UI](img width="761" alt="image" src="https://github.com/user-attachments/assets/2fe49c12-af36-472d-a3df-890f59acc933" /
-) 
+<img width="761" alt="image" src="https://github.com/user-attachments/assets/6cacdd21-5851-4d10-b09f-d338d1ab5fcf" />
+
 
 ## 📁 Project Structure
 
