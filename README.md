@@ -38,7 +38,8 @@ calculator-app/
 
 ```bash
 git clone https://github.com/Oluwat-dev/SimpleCalcApp.git
-cd calculator-app```
+cd calculator-app
+```
 
 Compile TypeScript (if needed)
 
