@@ -12,10 +12,11 @@ A lightweight, responsive calculator built with **TypeScript**, **HTML**, **CSS*
 
 ## 🛠️ Tech Stack
 
-- TypeScript  
-- JavaScript (ES6)  
-- HTML5  
-- CSS3
+- **TypeScript**
+- **Tailwind CSS**
+- **Vite**
+- HTML5
+- PostCSS
 
 ## 📷 Screenshot
 
